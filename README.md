@@ -1,4 +1,4 @@
-![image](https://vectormine.b-cdn.net/wp-content/uploads/workflow_of_machine_learning_outline_diagram-1.jpg)
+![image](https://www.ntiva.com/hs-fs/hubfs/Machine%20learning%20(1).png?width=1200&height=627&name=Machine%20learning%20(1).png)
 
 
 

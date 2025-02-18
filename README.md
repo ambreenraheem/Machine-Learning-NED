@@ -3,4 +3,4 @@
 
 
 # Machine-Learning-NED
-Machine Learning NED Sir Sajid
+Machine Learning NED Sir Sajid Majeed
